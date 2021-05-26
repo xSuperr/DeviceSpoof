@@ -12,8 +12,8 @@ import (
 	"sync"
 )
 
-var server = "lava.cosmicpe.me:19132"
-var did = "69c17a07d86a4bc3bb5bf0c92399dba3"
+var server = "play.primegames.in:19132"
+var did = "PrimegamesOP"
 
 func main() {
 
